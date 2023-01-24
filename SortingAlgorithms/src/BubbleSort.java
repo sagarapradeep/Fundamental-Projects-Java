@@ -1,6 +1,7 @@
 import java.util.Arrays;
 /*Bubble sort using both dowhile and for loop*/
 public class BubbleSort {
+    
     public static void main(String[] args) {
         int[] numbArray=new int[]{12,5,4,4,345,45,23}; //int number array can add or delete any number
         var sortedNumArray=bubbleSortUsingDoWhileLoop(numbArray);           //can use any method either do while or for loop
