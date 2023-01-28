@@ -20,7 +20,9 @@ public class DuplicationFinder {
     }
 
 
-    /*Represent members and their occurrences in 2D array, only 1+ occurrences considered*/
+    /*Represent members and their occurrences in 2D array, only 1+ occurrences considered
+    * More comment
+    * */
     public static String[][] final2DArray(String[] occurrence, String[] membersInArray) {
         int count =0;                                           /*Take 2D array length*/
         for (int i = 0; i < membersInArray.length; i++) {
