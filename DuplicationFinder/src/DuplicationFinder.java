@@ -11,7 +11,6 @@ public class DuplicationFinder {
         String[] inputStrArray = inputStr(input);
         String[] membersInArray = membersInArry(inputStrArray);
 
-
         String[] occurrence = occurrence(inputStrArray,membersInArray);
         String[][]final2DArray=final2DArray(occurrence,membersInArray);
 
