@@ -5,3 +5,4 @@ Second sub project folder contains simple data representation in table view. Dat
 Third project folder contains dynamic array creation using fixed array for continous user inputs
 Duplication finder project represent the simple occurrence number count for any user input, without using any libraries.
 Palindrome number project returns user input number palindrome or not.
+Snake game project contain basec 2D snake-food game using JavaFX and maven project management tool
